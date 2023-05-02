@@ -87,6 +87,8 @@ while (1)
 ON STATE:
 
 
+![ON PR3](https://user-images.githubusercontent.com/114286357/235618814-dd15bffe-742e-4e74-b0b4-c3ec635ddab4.png)
+
 
 
 OFF STATE:
