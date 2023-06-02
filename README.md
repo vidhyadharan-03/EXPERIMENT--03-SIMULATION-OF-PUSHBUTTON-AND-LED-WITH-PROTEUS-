@@ -102,7 +102,10 @@ OFF STATE:
  
  
  
- 
+ ![exp-3-graph](https://github.com/vidhyadharan-03/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/114286357/682ed6fc-810b-47e3-a61f-6ba3d090ea41)
+
+
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
