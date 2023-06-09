@@ -125,9 +125,7 @@ OFF STATE:
 ## Proteus layout(Add pdf screen shot of circuit here)
  
  
- 
- ![exp-3-graph](https://github.com/vidhyadharan-03/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/114286357/682ed6fc-810b-47e3-a61f-6ba3d090ea41)
-
+ ![237007181-dcfd1eff-760a-4ee2-a379-943dc07deeb7](https://github.com/vidhyadharan-03/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/114286357/5d4f694f-f192-446b-ba06-d7f393813f52)
 
 
 ## Result :
